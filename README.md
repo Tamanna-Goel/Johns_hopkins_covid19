@@ -1,10 +1,10 @@
 📈 COVID-19 Trend Forecasting
 
-🔧 Tools: Python, ARIMA, Pandas, NumPy
+    - Tools: Python, ARIMA, Pandas, NumPy
 
-📉 Model Type: Time-Series Forecasting
+    - Model Type: Time-Series Forecasting
 
-📊 R² Score: 0.82
+    - R² Score: 0.82
 
 Challenges Faced and Solutions
  - Data Quality Issues
